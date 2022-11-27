@@ -9,7 +9,7 @@ Observer pattern is a software architecture in which an object, named the observ
 
 The following diagram shows how Observer and Observable classes are linked between them.
 
-<img src="../../Resources/Observer_Diagram.png" alt="Observer pattern diagram" title="Observer pattern diagram"><br><br>
+<img src="https://github.com/gabridc/medium/blob/main/Patterns/Resources/Observer_Diagram.PNG" alt="Observer pattern diagram" title="Observer pattern diagram"><br><br>
 
 ## About this example
 ---
@@ -40,4 +40,4 @@ Observer class represent the participant or user in the chat rooms, it stores al
 ### Flow
 ---
 
-<img src="../../Resources/ChatRooms_Flow.png" alt="Observer pattern diagram" title="Observer pattern diagram"><br><br>
+<img src="https://github.com/gabridc/medium/blob/main/Patterns/Resources/ChatRooms_Flow.PNG" alt="Observer pattern diagram" title="Observer pattern diagram"><br><br>
