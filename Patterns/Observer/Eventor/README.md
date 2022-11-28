@@ -22,7 +22,7 @@ The purpose of this example is create a program that simulate a car computer abl
 ### Flow
 ---
 
-<img src="https://github.com/gabridc/medium/blob/main/Patterns/Resources/Car_Queue_Listener_Flow.PNG" alt="Queues and systems" title="Queues and systems diagram"><br><br>
+<img src="https://github.com/gabridc/medium/blob/main/Patterns/Resources/Car_Queue_Listener.PNG" alt="Queues and systems" title="Queues and systems diagram"><br><br>
 
 
 ErrorEventor and GeneralEventor classes are childs of its parent class Observable. Observable class declares four functions: addObserver, newEvent, notify and getPendingEvent. 
